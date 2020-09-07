@@ -1,0 +1,104 @@
+body {
+    font-size: 16px;
+    text-align: center;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: rgb(127, 165, 51);
+    margin-top: 1.5em;
+}
+
+canvas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0.5em;
+    border: 3px solid black;
+}
+
+canvas:hover {
+    cursor: crosshair;
+}
+
+.botonera {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.botonera_texto {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    padding-top: 0.8em;
+}
+
+#botonLimpiar {
+    margin-right: 3em;
+}
+
+.boton {
+    font-size: 1.2em;
+    display: block;
+    color: #1f1f1f;
+    background-color: rgb(164, 207, 76);
+    border: 0;
+    padding: 0.6em;
+    margin: 0.6em;
+    border-radius: 0.2em;
+}
+
+.boton:active {
+    background: rgb(127, 165, 51);
+}
+
+.boton-color {
+    font-size: 1.2em;
+    background-color: rgb(164, 207, 76);
+    border: 0;
+    padding: 0.6em;
+    margin: 0.6em;
+    border-radius: 0.2em;
+    width: 2.3em;
+    height: 2.3em;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.boton-color:active {
+    background: rgb(127, 165, 51);
+}
+
+.boton-color i {
+    display: block;
+    width: 1.1em;
+    height: 1.1em;
+}
+
+.color.c1 {
+    background-color: #c91a1a;
+}
+
+.color.c2 {
+    background-color: #f1e31c;
+}
+
+.color.c3 {
+    background-color: #5ac91a;
+}
+
+.color.c4 {
+    background-color: #1ac9ac;
+}
+
+.color.c5 {
+    background-color: #1a3ac9;
+}
+
+.color.c6 {
+    background-color: #7a1ac9;
+}
+
+.color.c7 {
+    background-color: #c91a71;
+}
