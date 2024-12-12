@@ -1,4 +1,5 @@
-# CLIP-tp3
+# EP_CanvasPaint
 
-Entiendo que la consigna del tp 3 era hacer una adivinanza con Js
-Pero como también entiendo que los trabajos prácticos son para evaluar nuestro conocimiento y quise hacer algo distinto, sin dejar de demostrar que sé javascript. Así que hice un paint! Era más divertido de hacer que sólo una adivinanza :D
+###### The initials EP in any repository stand for Educational Project. These are course projects and personal experiments for learning.   
+
+I made a very simple paint application with vanilla web programming for an old course project.
